@@ -1,0 +1,17 @@
+1E COMMANDE
+add :
+git add nomdufichier
+git add --all
+
+2E COMMANDE
+commit :
+git commit -m "[AJOUT]"
+git commit -m "[MODIF]"
+git commit -m "[DELETE]"
+
+
+3E COMMANDE
+git push origin master
+ --------------------------
+
+git pull (récupérer le dossier)

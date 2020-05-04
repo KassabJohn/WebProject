@@ -1,0 +1,62 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Righteous"; 
+  
+  }
+
+.posdb{
+  position: absolute;
+  left: 110%;
+  top: -20%;
+  box-shadow: 1px 4px 10px rgb(70, 70, 70);
+  background-color: rgb(124, 124, 124);
+  
+}
+
+.popgame{
+  font-family: "Righteous"; 
+font-size: 22px;
+letter-spacing: 1.4px;
+word-spacing: 1.2px;
+color: white;
+font-weight: 700;
+text-decoration: rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-shadow: 1px 4px 10px rgba(0, 0, 0, 0.603);
+text-decoration: underline;
+border: 3px solid black;
+}
+
+.txt{
+font-family: "Righteous"; 
+font-size: 18px;
+letter-spacing: 2.5px;
+word-spacing: 1.2px;
+color: rgb(0, 0, 0);
+font-weight: 600;
+text-decoration: rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.603);
+
+}
+
+img {
+  max-width:50%;
+}
+
+textarea
+{
+ resize : both;
+ min-width : 100%;
+ min-height : 30px;
+ max-width : 50px;
+ max-height : 100px;
+}
+
+.boxgame
+{
+  border: 3px solid rgb(0, 0, 0);
+}
